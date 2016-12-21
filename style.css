@@ -1,6 +1,7 @@
 body {
     margin: 20px;
-    font-size: 150%;
+    font-size: 180%;
+   font-family: 'Dancing Script', cursive;
 }
 
 .all-content {
@@ -9,4 +10,8 @@ body {
 
 .btn {
     margin: 5px;
+}
+#site-title {
+    font-weight: 900;
+    font-size: 36px
 }
